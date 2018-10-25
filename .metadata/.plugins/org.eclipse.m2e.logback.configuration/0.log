@@ -1,0 +1,7 @@
+2018-09-10 15:04:09,605 [Worker-10] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using null lifecycle mapping for MavenProject: com.verizon:spring-web-demo1:0.0.1-SNAPSHOT @ C:\Training\TrainingMJava\workspace1\spring-web-demo1\pom.xml.
+2018-09-11 14:37:43,742 [Worker-0] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2018-09-11 14:37:43,919 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using null lifecycle mapping for MavenProject: com.verizon:spring-web-demo1:0.0.1-SNAPSHOT @ C:\Training\TrainingMJava\workspace1\spring-web-demo1\pom.xml.
+2018-09-11 14:37:44,251 [Worker-0] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2018-09-11 14:38:09,858 [Worker-6] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2018-09-11 14:38:09,877 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using null lifecycle mapping for MavenProject: com.verizon:spring-web-demo1:0.0.1-SNAPSHOT @ C:\Training\TrainingMJava\workspace1\spring-web-demo1\pom.xml.
+2018-09-11 14:38:09,891 [Worker-6] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
